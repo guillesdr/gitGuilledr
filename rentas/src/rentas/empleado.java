@@ -6,6 +6,7 @@ public class empleado {
 	private String apellido;
 	private String tipoDoc;
 	private int nroDoc;
+	private String estadoCivil;
 	
 	public String getNombre() {
 		return nombre;
