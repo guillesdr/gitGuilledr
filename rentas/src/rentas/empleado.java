@@ -7,6 +7,10 @@ public class empleado {
 	private String tipoDoc;
 	private int nroDoc;
 	private String estadoCivil;
+	private String personaId;
+
+	//comentarios
+	//comentarios2
 	
 	public String getNombre() {
 		return nombre;
