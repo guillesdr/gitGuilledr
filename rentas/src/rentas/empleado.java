@@ -12,6 +12,11 @@ public class empleado {
 	//comentarios
 	//comentarios2
 	//comentarios3
+	
+	private String texto1;
+	private String texto2;
+	private String texto3;
+	
 
 	public String getNombre() {
 		return nombre;
