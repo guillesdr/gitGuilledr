@@ -4,6 +4,7 @@ public class impuesto {
 
 	private int id;
 	private String descripcion;
+	private double interes;
 	
 	public int getId() {
 		return id;
